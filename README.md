@@ -1,4 +1,4 @@
-# Text_Classification
+# DM-Kaggle_Text_Classification
 
 A Data Mining assignment to build a Naive Bayes classifier for Kaggle Rotten Tomatoes Reviews dataset
 
